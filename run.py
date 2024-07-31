@@ -65,6 +65,5 @@ def main():
     else:
         print_random_ascii(safe)
 
-    print(f"Safe: {safe}, is_list: {bool(args.list)}")
 if __name__ == "__main__":
     main()
