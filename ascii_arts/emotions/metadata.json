@@ -1,0 +1,238 @@
+{
+  "category": "emotions",
+  "nsfw": false,
+  "description": "ASCII arts expressing various emotions and reactions",
+  "files": [
+    {
+      "name": "stare_001",
+      "original_name": "stare 001",
+      "tags": [
+        "stare",
+        "eyes",
+        "intense",
+        "emotions"
+      ],
+      "nsfw": false
+    },
+    {
+      "name": "stare_002",
+      "original_name": "stare 002",
+      "tags": [
+        "stare",
+        "eyes",
+        "intense",
+        "emotions"
+      ],
+      "nsfw": false
+    },
+    {
+      "name": "stare_003",
+      "original_name": "stare 003",
+      "tags": [
+        "stare",
+        "eyes",
+        "intense",
+        "emotions"
+      ],
+      "nsfw": false
+    },
+    {
+      "name": "stare_004",
+      "original_name": "stare 004",
+      "tags": [
+        "stare",
+        "eyes",
+        "intense",
+        "emotions"
+      ],
+      "nsfw": false
+    },
+    {
+      "name": "stare_005",
+      "original_name": "stare 005",
+      "tags": [
+        "stare",
+        "eyes",
+        "intense",
+        "emotions"
+      ],
+      "nsfw": false
+    },
+    {
+      "name": "love_001",
+      "original_name": "love 001",
+      "tags": [
+        "heart",
+        "emotions",
+        "romance",
+        "love"
+      ],
+      "nsfw": false
+    },
+    {
+      "name": "love_002",
+      "original_name": "love 002",
+      "tags": [
+        "heart",
+        "emotions",
+        "romance",
+        "love"
+      ],
+      "nsfw": false
+    },
+    {
+      "name": "love_003",
+      "original_name": "love 003",
+      "tags": [
+        "heart",
+        "emotions",
+        "romance",
+        "love"
+      ],
+      "nsfw": false
+    },
+    {
+      "name": "smile_001",
+      "original_name": "smile 001",
+      "tags": [
+        "positive",
+        "happy",
+        "emotions",
+        "smile"
+      ],
+      "nsfw": false
+    },
+    {
+      "name": "smile_002",
+      "original_name": "smile 002",
+      "tags": [
+        "positive",
+        "happy",
+        "emotions",
+        "smile"
+      ],
+      "nsfw": false
+    },
+    {
+      "name": "smile_003",
+      "original_name": "smile 003",
+      "tags": [
+        "positive",
+        "happy",
+        "emotions",
+        "smile"
+      ],
+      "nsfw": false
+    },
+    {
+      "name": "bravery_001",
+      "original_name": "bravery 001",
+      "tags": [
+        "brave",
+        "emotions",
+        "strong",
+        "courage"
+      ],
+      "nsfw": false
+    },
+    {
+      "name": "scream_001",
+      "original_name": "scream 001",
+      "tags": [
+        "scared",
+        "scream",
+        "horror",
+        "emotions"
+      ],
+      "nsfw": false
+    },
+    {
+      "name": "scream_002",
+      "original_name": "scream 002",
+      "tags": [
+        "scared",
+        "scream",
+        "horror",
+        "emotions"
+      ],
+      "nsfw": false
+    },
+    {
+      "name": "hype_001",
+      "original_name": "hype 001",
+      "tags": [
+        "energy",
+        "hype",
+        "emotions",
+        "excited"
+      ],
+      "nsfw": false
+    },
+    {
+      "name": "smug_001",
+      "original_name": "smug 001",
+      "tags": [
+        "cocky",
+        "smug",
+        "emotions",
+        "confident"
+      ],
+      "nsfw": false
+    },
+    {
+      "name": "shoked_001",
+      "original_name": "shoked 001",
+      "tags": [
+        "wow",
+        "shocked",
+        "emotions",
+        "surprised"
+      ],
+      "nsfw": false
+    },
+    {
+      "name": "shoked_002",
+      "original_name": "shoked 002",
+      "tags": [
+        "wow",
+        "shocked",
+        "emotions",
+        "surprised"
+      ],
+      "nsfw": false
+    },
+    {
+      "name": "shoked_003",
+      "original_name": "shoked 003",
+      "tags": [
+        "wow",
+        "shocked",
+        "emotions",
+        "surprised"
+      ],
+      "nsfw": false
+    },
+    {
+      "name": "amazed_001",
+      "original_name": "amazed 001",
+      "tags": [
+        "wow",
+        "emotions",
+        "surprised",
+        "amazed"
+      ],
+      "nsfw": false
+    },
+    {
+      "name": "embarrassed_001",
+      "original_name": "embarrassed 001",
+      "tags": [
+        "embarrassed",
+        "emotions",
+        "shy",
+        "blush"
+      ],
+      "nsfw": false
+    }
+  ]
+}

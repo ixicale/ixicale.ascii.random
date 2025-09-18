@@ -1,0 +1,130 @@
+{
+  "category": "animals",
+  "nsfw": false,
+  "description": "Cute and adorable animal ASCII arts",
+  "files": [
+    {
+      "name": "neko_001",
+      "original_name": "neko 001",
+      "tags": [
+        "cat",
+        "kawaii",
+        "animals",
+        "cute"
+      ],
+      "nsfw": false
+    },
+    {
+      "name": "neko_002",
+      "original_name": "neko 002",
+      "tags": [
+        "cat",
+        "kawaii",
+        "animals",
+        "cute"
+      ],
+      "nsfw": false
+    },
+    {
+      "name": "neko_003",
+      "original_name": "neko 003",
+      "tags": [
+        "cat",
+        "kawaii",
+        "animals",
+        "cute"
+      ],
+      "nsfw": false
+    },
+    {
+      "name": "neko_004",
+      "original_name": "neko 004",
+      "tags": [
+        "cat",
+        "kawaii",
+        "animals",
+        "cute"
+      ],
+      "nsfw": false
+    },
+    {
+      "name": "neko_005",
+      "original_name": "neko 005",
+      "tags": [
+        "cat",
+        "kawaii",
+        "animals",
+        "cute"
+      ],
+      "nsfw": false
+    },
+    {
+      "name": "neko_006",
+      "original_name": "neko 006",
+      "tags": [
+        "cat",
+        "kawaii",
+        "animals",
+        "cute"
+      ],
+      "nsfw": false
+    },
+    {
+      "name": "neko_007",
+      "original_name": "neko 007",
+      "tags": [
+        "cat",
+        "kawaii",
+        "animals",
+        "cute"
+      ],
+      "nsfw": false
+    },
+    {
+      "name": "neko_008",
+      "original_name": "neko 008",
+      "tags": [
+        "cat",
+        "kawaii",
+        "animals",
+        "cute"
+      ],
+      "nsfw": false
+    },
+    {
+      "name": "animals_001",
+      "original_name": "animals 001",
+      "tags": [
+        "animals"
+      ],
+      "nsfw": false
+    },
+    {
+      "name": "animals_002",
+      "original_name": "animals 002",
+      "tags": [
+        "animals"
+      ],
+      "nsfw": false
+    },
+    {
+      "name": "animals_003",
+      "original_name": "animals 003",
+      "tags": [
+        "animals"
+      ],
+      "nsfw": false
+    },
+    {
+      "name": "pokemon_001",
+      "original_name": "pokemon 001",
+      "tags": [
+        "cute",
+        "animals",
+        "pokemon",
+        "anime"
+      ],
+      "nsfw": false
+    }
+  ]
+}

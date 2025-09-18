@@ -1,0 +1,84 @@
+{
+  "category": "misc",
+  "nsfw": false,
+  "description": "Miscellaneous ASCII arts that don't fit other categories",
+  "files": [
+    {
+      "name": "sus_001",
+      "original_name": "sus 001",
+      "tags": [
+        "among_us",
+        "misc",
+        "meme",
+        "sus"
+      ],
+      "nsfw": false
+    },
+    {
+      "name": "sus_002",
+      "original_name": "sus 002",
+      "tags": [
+        "among_us",
+        "misc",
+        "meme",
+        "sus"
+      ],
+      "nsfw": false
+    },
+    {
+      "name": "sus_003",
+      "original_name": "sus 003",
+      "tags": [
+        "among_us",
+        "misc",
+        "meme",
+        "sus"
+      ],
+      "nsfw": false
+    },
+    {
+      "name": "evil_001",
+      "original_name": "evil 001",
+      "tags": [
+        "scary",
+        "misc",
+        "dark",
+        "evil"
+      ],
+      "nsfw": false
+    },
+    {
+      "name": "pray_001",
+      "original_name": "pray 001",
+      "tags": [
+        "pray",
+        "misc",
+        "spiritual",
+        "religious"
+      ],
+      "nsfw": false
+    },
+    {
+      "name": "fancy_001",
+      "original_name": "fancy 001",
+      "tags": [
+        "misc",
+        "fancy",
+        "elegant",
+        "classy"
+      ],
+      "nsfw": false
+    },
+    {
+      "name": "shrek",
+      "original_name": "shrek",
+      "tags": [
+        "meme",
+        "misc",
+        "ogre",
+        "shrek"
+      ],
+      "nsfw": false
+    }
+  ]
+}

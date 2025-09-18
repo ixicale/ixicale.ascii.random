@@ -1,0 +1,57 @@
+{
+  "category": "nsfw",
+  "nsfw": true,
+  "description": "Not safe for work ASCII arts (18+)",
+  "files": [
+    {
+      "name": "oppai_001",
+      "original_name": "oppai 001",
+      "tags": [
+        "lewd",
+        "nsfw",
+        "oppai"
+      ],
+      "nsfw": true
+    },
+    {
+      "name": "nude_001",
+      "original_name": "nude 001",
+      "tags": [
+        "lewd",
+        "nsfw",
+        "nude"
+      ],
+      "nsfw": true
+    },
+    {
+      "name": "ahegao_001",
+      "original_name": "ahegao 001",
+      "tags": [
+        "lewd",
+        "nsfw",
+        "ahegao"
+      ],
+      "nsfw": true
+    },
+    {
+      "name": "ahegao_002",
+      "original_name": "ahegao 002",
+      "tags": [
+        "lewd",
+        "nsfw",
+        "ahegao"
+      ],
+      "nsfw": true
+    },
+    {
+      "name": "ahegao_003",
+      "original_name": "ahegao 003",
+      "tags": [
+        "lewd",
+        "nsfw",
+        "ahegao"
+      ],
+      "nsfw": true
+    }
+  ]
+}
